@@ -1,4 +1,5 @@
 # Matlab-Simple-Circuit-GUI
+Written in Matlab  
 Simple circuit with current and voltage source and resistance . 
 
 This function takes the data in the "project.txt" and finds the voltages of nodes:
